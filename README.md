@@ -1,98 +1,91 @@
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# [ID] USER: Kvbi213
-# [AUTH] STATUS: ACCESS_GRANTED // ENCRYPTION: ACTIVE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=root@kvbi213:~%23%20access%20--granted&fontSize=20&fontColor=00FF00" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=SUVEREIGN%20ARCHITECT%20//%20KVBI&fontSize=50&fontColor=00FF00&animation=twinkling&desc=%5B%20SYSTEM_BREACH_IN_PROGRESS%20%5D&descSize=20&descAlignY=70&descColor=00CC00" width="100%"/>
 
-```text
-[SYSTEM_BOOT_SEQUENCE]
-> Initializing Sovereign_Core... [OK]
-> Calibrating Truth_Detection... [OK]
-> Reality_Automation_Active...  [OK]
+<br/>
 
-"Adrenaline doesn't paralyze—it calibrates the mind."
-```
+<img src="https://img.shields.io/badge/AUTH-ACCESS_GRANTED-00FF00?style=for-the-badge&logo=lock&logoColor=black" />
+<img src="https://img.shields.io/badge/ROLE-ARCHITECT_OF_CHAOS-00FF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LOG-ENCRYPTED-00FF00?style=for-the-badge" />
 
-### 🖥️ [SYS_INFO]
-
-```bash
-$ neofetch --user kvbi213
-```
-
-> **USER:** Kvbi213  
-> **ROLE:** Sovereign Architect / Software Engineer  
-> **SHELL:** Zsh / Tactical Logic  
-> **FOCUS:** Home OS 2035 // Re-coding the System  
-> **MOTTO:** "Revolution starts with one line of code."
+</div>
 
 ---
 
-### 📂 [DIR] /home/kvbi/projects/
+### 📂 [DATA_LOG] System_Profiling
 
-```bash
-$ ls -la --sort=priority
-```
-
-| Permission | Name | Version | Status |
-| :--- | :--- | :--- | :--- |
-| `drwxr-xr-x` | **[Home_OS_2035](https://github.com/Kvbi213)** | `v0.9.4-alpha` | `[BUILDING]` |
-| `drwxr-xr-x` | **[EduTrack](https://github.com/Kvbi213)** | `v2.1.0-stable` | `[ACTIVE]` |
-| `-rwxr-xr-x` | **[Mekta](https://github.com/Kvbi213)** | `v1.0.2-beta` | `[MAINTAINING]` |
-
----
-
-### 🛠️ [PKG_LIST] Installed_Tech
-
-```bash
-$ pkg list --installed | grep "essentials"
-```
-
-```diff
-+ LANGUAGES: [TypeScript, JavaScript, Python, C++]
-+ FRONTEND:  [React.js, Next.js, TailwindCSS]
-+ BACKEND:   [Node.js, Express, Prisma, REST_API]
-+ INFRA:     [MySQL, PostgreSQL, Docker, Linux_Kernel]
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ [CORE_PROCESSES]</h4>
+      <ul>
+        <li><b>Entity:</b> Kvbi213</li>
+        <li><b>Objective:</b> Coding reality, one line at a time.</li>
+        <li><b>Philosophy:</b> Truth-driven system architecture.</li>
+        <li><b>Current_Layer:</b> <a href="https://github.com/Kvbi213"><b>Home OS 2035</b></a></li>
+      </ul>
+      <code>"Adrenaline doesn't paralyze—it calibrates the mind."</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 [DATA_STREAMS]</h4>
+      <p>
+        <a href="https://wattpad.com/user/Kvbi--"><img src="https://img.shields.io/badge/RECORDS-Wattpad-000000?style=for-the-badge&logo=wattpad&logoColor=00FF00"/></a><br/>
+        <a href="https://instagram.com/kv..bi/"><img src="https://img.shields.io/badge/FOOTPRINT-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/></a><br/>
+        <a href="#"><img src="https://img.shields.io/badge/NODE-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 [STATS] Resource_Usage
+### 🛠️ [SPEC] Technical_Arsenal
 
-```bash
-$ top -u kvbi213 --display metrics
-```
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true" height="150" />
-</p>
+**[ LANGUAGES ]**
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark" />
 
----
+**[ FRAMEWORKS & TOOLS ]**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma,mysql,docker,linux,git&theme=dark" />
 
-### 📡 [REMOTE_CONN] Secure_Streams
-
-```bash
-$ ssh-add -L // Connecting to nodes...
-```
-
-* **[WATT]** [wattpad.com/user/Kvbi--](https://wattpad.com/user/Kvbi--) `// Chronicles of moral grayness`
-* **[INST]** [instagram.com/kv..bi/](https://instagram.com/kv..bi/) `// Digital footprints`
-* **[DISC]** `Kvbi-_-` `// Direct data transfer`
+</div>
 
 ---
 
-### 🚪 [EXIT] Logout_Sequence
+### 📊 [METRICS] Activity_Overview
 
-```bash
-$ logout
-```
+<div align="center">
 
-> **[LOG]:** Revolution will not be broadcast. It will be programmed.  
-> **[STATUS]:** [██████████████▒▒] *Waiting for input...*
+<img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
 
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&text=CONNECTION_CLOSED&fontSize=15&fontColor=00FF00" />
-</p>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&theme=github-dark-green&bg_color=000000&color=00ff00&line=00ff00&point=00cc00&hide_border=true" width="96%" />
+
+</div>
+
+---
+
+### 📁 [FILES] Active_Projects
+
+<div align="center">
+
+| PERMISSION | PROJECT | STACK | STATUS |
+| :--- | :--- | :--- | :---: |
+| `drwxr-xr-x` | **Home OS 2035** | `TS` `Node` | 🔴 ENCRYPTED |
+| `drwxr-xr-x` | **EduTrack** | `React` `Prisma` | 🟢 ACTIVE |
+| `-rwxr-xr-x` | **Mekta** | `JS` `CSS` | 🟡 BETA |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=REVOLUTION%20WILL%20NOT%20BE%20BROADCAST.%20IT%20WILL%20BE%20PROGRAMMED.&fontSize=18&fontColor=00FF00" width="100%"/>
+
+**[ SESSION_CLOSED ]**
+
+</div>
