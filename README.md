@@ -53,7 +53,6 @@ stack:
 | :--- | :--- | :--- | :--- |
 | `drwx------` | **[Home_OS_2035](https://github.com/Kvbi213)** | `[BUILDING]` | System nadrzędny. Narzędzie wolności i kontroli. |
 | `drwxr-xr-x` | **[EduTrack](https://github.com/Kvbi213)** | `[STABLE]` | Analityka postępów i logika edukacyjna. |
-| `-rwxr-xr-x` | **[Mekta](https://github.com/Kvbi213)** | `[BETA]` | Węzeł społecznościowy. |
 
 ### `root@kvbi213:~# ps aux | grep "audio_stream"`
 
