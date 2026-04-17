@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=KVBI213_SYSTEM_OS&fontSize=50&fontColor=00FF00&animation=matrix&v=1.3" width="100%"/>
 
+<br/>
+
+<a href="https://kvbi213.github.io/">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=>>>_URUCHOM_TERMINAL_PEŁNE_DOŚWIADCZENIE_<<<&fontSize=25&fontColor=FF003C&animation=glitch" width="100%"/>
+</a>
+
 <table width="100%">
   <tr>
     <!-- KOLUMNA 1: STATUS SYSTEMU -->
