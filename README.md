@@ -43,7 +43,6 @@
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="49%"/>
 
 <br/><br/>
