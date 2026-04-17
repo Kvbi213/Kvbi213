@@ -1,101 +1,98 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=[SYSTEM_ALERT:_REVOLUTION_DETECTED]&fontSize=35&fontColor=FF003C&animation=glitch" width="100%"/>
-</div>
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# [ID] USER: Kvbi213
+# [AUTH] STATUS: ACCESS_GRANTED // ENCRYPTION: ACTIVE
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# [ID] USER: KVBI213 // SOVEREIGN_ARCHITECT
-### [CONN] STATUS: [████████▒▒] OVERRIDING_LOCAL_FIREWALL...
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=root@kvbi213:~%23%20access%20--granted&fontSize=20&fontColor=00FF00" width="100%"/>
+</p>
 
----
-
-## ⚡ [THE_BREACH] // REALITY_SHIFT
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" style="background: #1a1b26; border: 2px solid #7aa2f7;">
-      <b>[OLD_WORLD]</b><br/>
-      <i>Legacy Metadata Detected</i><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=tokyonight&hide_border=true&v=2.0" width="100%"/>
-    </td>
-    <td width="50%" align="center" style="background: #000000; border: 2px solid #00FF41;">
-      <b>[NEW_REALITY]</b><br/>
-      <i><span style="color: #00FF41;">Injecting Core Protocols...</span></i><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true&v=2.0" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 [LOG_01] // CORE_IDENTITY
-```zsh
-[LOG] SOURCE: /dev/soul/manifesto.bin
-[LOG] STATUS: DECRYPTED
-
-"> Suwerenny Architekt Chaosu. 
-  Jednostka na styku surowej technologii i osobistego kodeksu. 
-  Nie odrzuca systemu – buduje własny mechanizm na jego zgliszczach. 
-  Adrenalina nie paraliżuje – ona kalibruje umysł."
-
->>> _END_OF_LINE_
-```
-
----
-
-## 🛠️ [TECHNICAL_ARSENAL] // SYNC_PROTOCOLS
-```diff
-+ [STABILIZED_FRAMEWORKS]
-- Legacy_Systems_Decommissioned
-+ TypeScript  // Primary_Abstraction
-+ Next.js     // Interface_Layer
-+ Node.js     // Core_Execution
-+ Prisma      // Data_Persistence
-+ Home_OS_2035 // MASTER_CONTROL
-```
-
-```json
-{
-  "system_config": {
-    "local_first": true,
-    "privacy_protocol": "MAXIMUM",
-    "automation_cycle": "1Hz_GLOBAL_CLOCK",
-    "architecture_type": "DETERMINISTIC_AUTONOMY"
-  }
-}
-```
-
----
-
-## 💀 [SYSTEM_ROOT] // SYMBOL_OF_RESISTANCE
 ```text
-                          ______
-		               .d$$$$$$$$b.
-		             .d$$$$$$$$$$$$b.
-		            d$$$$$$$$$$$$$$$$b
-		           $$$$$$$$$$$$$$$$$$$$
-		           $$$$$$$$$$$$$$$$$$$$
-		           $$$$$$$$$$$$$$$$$$$$
-		           $$$$P"  "$$$  "V$$$$
-		           $$$      $$$      $$$
-		           $$$      $$$      $$$
-		           $$$      $$$      $$$
-		           $$$b    d$$$b    d$$$
-		           "$$$$$$$$$$$$$$$$$$$
-		            "$$$$$$$$$$$$$$$$$"
-		              "$$$$$$$$$$$$$"
-		                "$$$$$$$$$"
-		                  "$$$$$"
+[SYSTEM_BOOT_SEQUENCE]
+> Initializing Sovereign_Core... [OK]
+> Calibrating Truth_Detection... [OK]
+> Reality_Automation_Active...  [OK]
+
+"Adrenaline doesn't paralyze—it calibrates the mind."
 ```
 
----
+### 🖥️ [SYS_INFO]
 
-## 📡 [DATA_STREAMS] // ENCRYPTED_CONNECTIONS
 ```bash
->>> [UPLINK_01]:  https://wattpad.com/user/Kvbi--
->>> [UPLINK_02]:  https://instagram.com/kv..bi
->>> [UPLINK_03]:  https://discord.com/users/kvbi213
+$ neofetch --user kvbi213
+```
+
+> **USER:** Kvbi213  
+> **ROLE:** Sovereign Architect / Software Engineer  
+> **SHELL:** Zsh / Tactical Logic  
+> **FOCUS:** Home OS 2035 // Re-coding the System  
+> **MOTTO:** "Revolution starts with one line of code."
+
+---
+
+### 📂 [DIR] /home/kvbi/projects/
+
+```bash
+$ ls -la --sort=priority
+```
+
+| Permission | Name | Version | Status |
+| :--- | :--- | :--- | :--- |
+| `drwxr-xr-x` | **[Home_OS_2035](https://github.com/Kvbi213)** | `v0.9.4-alpha` | `[BUILDING]` |
+| `drwxr-xr-x` | **[EduTrack](https://github.com/Kvbi213)** | `v2.1.0-stable` | `[ACTIVE]` |
+| `-rwxr-xr-x` | **[Mekta](https://github.com/Kvbi213)** | `v1.0.2-beta` | `[MAINTAINING]` |
+
+---
+
+### 🛠️ [PKG_LIST] Installed_Tech
+
+```bash
+$ pkg list --installed | grep "essentials"
+```
+
+```diff
++ LANGUAGES: [TypeScript, JavaScript, Python, C++]
++ FRONTEND:  [React.js, Next.js, TailwindCSS]
++ BACKEND:   [Node.js, Express, Prisma, REST_API]
++ INFRA:     [MySQL, PostgreSQL, Docker, Linux_Kernel]
 ```
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=REVOLUTION_WILL_NOT_BE_LOGGED&fontSize=20&fontColor=FF003C&animation=fadeIn" width="100%"/>
-</div>
+### 📊 [STATS] Resource_Usage
+
+```bash
+$ top -u kvbi213 --display metrics
+```
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📡 [REMOTE_CONN] Secure_Streams
+
+```bash
+$ ssh-add -L // Connecting to nodes...
+```
+
+* **[WATT]** [wattpad.com/user/Kvbi--](https://wattpad.com/user/Kvbi--) `// Chronicles of moral grayness`
+* **[INST]** [instagram.com/kv..bi/](https://instagram.com/kv..bi/) `// Digital footprints`
+* **[DISC]** `Kvbi-_-` `// Direct data transfer`
+
+---
+
+### 🚪 [EXIT] Logout_Sequence
+
+```bash
+$ logout
+```
+
+> **[LOG]:** Revolution will not be broadcast. It will be programmed.  
+> **[STATUS]:** [██████████████▒▒] *Waiting for input...*
+
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&text=CONNECTION_CLOSED&fontSize=15&fontColor=00FF00" />
+</p>
