@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=USER:_Kvbi213&fontSize=40&fontAlignY=40&fontColor=00FF00&animation=matrix" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=USER:_Kvbi213&fontSize=50&fontColor=00FF00&animation=fadeIn&fontAlignY=40&v=1.1" width="100%"/>
 
 <br/>
 
@@ -85,5 +85,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=120&section=footer&fontColor=00FF00&fontSize=20&text=LOG_END:_CONNECTED_TO_FUTURE&animation=glitch" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=120&section=footer&fontColor=00FF00&fontSize=25&text=SYSTEM_STATUS:_ONLINE&animation=fadeIn&v=1.1" width="100%"/>
 </div>
