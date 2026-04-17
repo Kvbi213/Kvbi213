@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=150d0a&height=180&text=KVBI213&fontSize=65&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=72&descColor=8B5A2B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=150d0a&height=180&text=KVBI213&fontSize=65&fontColor=C19A6B&animation=twinkling&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=72&descColor=8B5A2B" width="100%"/>
 
 <br/>
 
@@ -20,10 +20,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>[ OBJECTIVES ]</h3>
-      <p>
-        Developer focused on building <b>real systems</b> and practical solutions.<br/>
-        Passionate about scalable architecture and clean code.
-      </p>
+      <p>Developer focused on building <b>real systems</b> and practical solutions.<br/>Passionate about scalable architecture and clean code.</p>
       <ul>
         <li>▸ Building real, working applications</li>
         <li>▸ Improving backend logic & system design</li>
@@ -33,17 +30,9 @@
     </td>
     <td width="45%" valign="top">
       <h3>[ ENVIRONMENT & COMMS ]</h3>
-      <p>
-        <b>SYS.OS:</b> Windows 11 // WSL2 (Ubuntu) // Kali<br/>
-        <b>AUDIO:</b> Słoń, Szpaku <i>(Focus Stream)</i><br/><br/>
-        
-        <a href="#">
-          <img src="https://img.shields.io/badge/Discord-Kvbi--_---150d0a?style=for-the-badge&logo=discord&logoColor=C19A6B"/>
-        </a><br/><br/>
-        <a href="https://instagram.com/kv..bi/">
-          <img src="https://img.shields.io/badge/Instagram-@kv..bi-150d0a?style=for-the-badge&logo=instagram&logoColor=C19A6B"/>
-        </a>
-      </p>
+      <p><b>SYS.OS:</b> Windows 11 // WSL2 (Ubuntu) // Kali<br/><b>AUDIO:</b> Słoń, Szpaku <i>(Focus Stream)</i></p>
+      <a href="#"><img src="https://img.shields.io/badge/Discord-Kvbi--_---150d0a?style=for-the-badge&logo=discord&logoColor=C19A6B"/></a><br/><br/>
+      <a href="https://instagram.com/kv..bi/"><img src="https://img.shields.io/badge/Instagram-@kv..bi-150d0a?style=for-the-badge&logo=instagram&logoColor=C19A6B"/></a>
     </td>
   </tr>
 </table>
