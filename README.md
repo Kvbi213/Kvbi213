@@ -1,63 +1,116 @@
 <div align="center">
 
-# ⚡ Kvbi213
-**Developer focused on building real systems and practical solutions.**<br/>
-*Works with modern web technologies, backend logic, and system-oriented projects.*
+<img src="https://capsule-render.vercel.app/api?type=venom&color=00ff00&height=200&text=KVBI213&fontSize=75&fontColor=000000&animation=fadeIn&desc=Developer%20%7C%20System%20Architect&descSize=20&descAlignY=68&descColor=ffffff" width="100%"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kvbi213&color=00ff00&style=for-the-badge&label=VISITORS" alt="visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Kvbi213?color=00cc00&label=FOLLOWERS&style=for-the-badge&logo=github" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Building_Real_Systems-009900?style=for-the-badge" alt="status"/>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header&text=⚡%20Current%20Focus&fontSize=28&fontColor=ffffff&fontAlignY=60" width="100%"/>
 
-| Category | Technologies |
-| :--- | :--- |
-| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs" height="28" align="middle"/> |
-| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=php,nodejs,prisma" height="28" align="middle"/> *(Node.js learning)* |
-| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mysql" height="28" align="middle"/> |
-| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux" height="28" align="middle"/> *(WSL2, Kali)* |
-
----
-
-### 🚀 Projects
-
-| Project | Status | Description |
-| :--- | :---: | :--- |
-| 🏠 **Home_OS_2035** | <img src="https://img.shields.io/badge/-BUILDING-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" height="24"> | Concept system focused on user control and independence. Currently in development — architecture, structure, and core logic. |
-| 🎓 **EduTrack** | <img src="https://img.shields.io/badge/-STABLE-32CD32?style=for-the-badge&logo=checkmarx&logoColor=white" height="24"> | System for tracking learning progress and analyzing results. Focused on data handling, logic, and usability. |
-
----
-
-### 🎯 Current Focus
-
-- 🏗️ **Building** real, working applications
-- 🧠 **Improving** backend logic and system design
-- 📐 **Learning** scalable architecture
-- 🧹 **Writing** clean and efficient code
-
----
-
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Environment</h3>
+    <td width="55%" valign="top">
+      <h3>🎯 Objectives</h3>
+      <p>
+        Developer focused on building <b>real systems</b> and practical solutions.<br/>
+        Passionate about scalable architecture and clean code.
+      </p>
       <ul>
-        <li><img src="https://skillicons.dev/icons?i=windows" height="15" align="middle"/> <b>Host:</b> Windows 11</li>
-        <li><img src="https://skillicons.dev/icons?i=ubuntu" height="15" align="middle"/> <b>Subsystem:</b> WSL2 (Ubuntu)</li>
-        <li><img src="https://skillicons.dev/icons?i=kali" height="15" align="middle"/> <b>Tactical:</b> Kali Linux</li>
+        <li>🏗️ Building real, working applications</li>
+        <li>🧠 Improving backend logic & system design</li>
+        <li>📐 Learning scalable architecture</li>
+        <li>🧹 Writing clean and efficient code</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Contact</h3>
-      <br/>
-      <a href="#"><img src="https://img.shields.io/badge/Discord-Kvbi--_---5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28"/></a>
-      <br/><br/>
-      <a href="https://instagram.com/kv..bi/"><img src="https://img.shields.io/badge/Instagram-@kv..bi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+    <td width="45%" valign="top">
+      <h3>🌐 Environment & Contact</h3>
+      <p>
+        <b>[ OS & Tactical ]</b><br/>
+        <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" height="25" align="middle"/><br/><br/>
+        <b>[ Direct Nodes ]</b><br/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Discord-Kvbi--_---000000?style=for-the-badge&logo=discord&logoColor=00FF00"/>
+        </a><br/><br/>
+        <a href="https://instagram.com/kv..bi/">
+          <img src="https://img.shields.io/badge/Instagram-@kv..bi-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=60&section=footer" width="100%"/>
+
 ---
 
-> [!IMPORTANT]
-> ⚠️ **NOTE:** If the system is flawed — rebuild it.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=100&section=header&text=📊%20System%20Metrics&fontSize=28&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="49%"/>
+&nbsp;
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&theme=github-dark-green&bg_color=000000&color=00ff00&line=00ff00&point=00cc00&hide_border=true" width="98%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00cc00&height=60&section=footer" width="100%"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=009900&height=100&section=header&text=📁%20Core%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🧱 Stack | 🚦 Status |
+| :--- | :--- | :--- | :---: |
+| **[Home_OS_2035](https://github.com/Kvbi213)** | Concept system focused on user control and independence. | `TypeScript` `Node.js` | 🟡 BUILDING |
+| **[EduTrack](https://github.com/Kvbi213)** | System for tracking learning progress and analyzing results. | `React` `Prisma` | 🟢 STABLE |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=009900&height=60&section=footer" width="100%"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=100&section=header&text=🧰%20Tech%20Arsenal&fontSize=28&fontColor=ffffff&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark&perline=13"/>
+
+<br/>
+
+**Frameworks & Logic**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma&theme=dark&perline=13"/>
+
+<br/>
+
+**Databases & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git&theme=dark&perline=13"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006600&height=60&section=footer" width="100%"/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ff00&height=120&section=footer&fontColor=000000&fontSize=16&text=NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
+</div>
