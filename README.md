@@ -43,8 +43,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true&bg_color=150d0a&title_color=C19A6B&text_color=8B5A2B" width="49%"/>
-&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="49%"/>
 
 <br/><br/>
