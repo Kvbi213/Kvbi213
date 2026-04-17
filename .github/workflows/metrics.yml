@@ -13,13 +13,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: meklasdev
+          user: Kvbi213
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
           config_padding: 6%, 10%
 
-          # ── Języki ────────────────────────────────────────────────
+          # ── Languages ──────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_ignored: html, css, dockerfile
           plugin_languages_details: bytes-size, percentage
@@ -27,24 +27,24 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
 
-          # ── Habits / aktywność ────────────────────────────────────
+          # ── Habits / Activity ───────────────────────────────────────
           plugin_habits: yes
-          plugin_habits_from: 100        # było 200 - crashowało przy małej aktywności
+          plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: no       # było yes - powodowało Unexpected error
+          plugin_habits_charts: no
 
-          # ── Izometryczny kalendarz ────────────────────────────────
+          # ── Isocalendar ───────────────────────────────────────────
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # ── Osiągnięcia ───────────────────────────────────────────
+          # ── Achievements ──────────────────────────────────────────
           plugin_achievements: yes
-          plugin_achievements_threshold: C  # było B - obniżone żeby coś pokazać
-          plugin_achievements_secrets: no   # było yes - crashowało gdy brak ukrytych
-          plugin_achievements_display: compact  # było detailed - stabilniejsze
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: no
+          plugin_achievements_display: compact
 
-          # ── Obserwujący / Stars ───────────────────────────────────
+          # ── Social ────────────────────────────────────────────────
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
@@ -57,7 +57,7 @@ jobs:
           # ── Traffic ───────────────────────────────────────────────
           plugin_traffic: yes
 
-          # ── Kolejność sekcji ──────────────────────────────────────
+          # ── Order ──────────────────────────────────────────────────
           config_order: >
             base.header,
             isocalendar,
