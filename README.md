@@ -1,80 +1,77 @@
-_  ____     ______ _____   ___  __  ____  
+```text
+  _  ____     ______ _____   ___  __  ____  
  | |/ /\ \   / /  _ \_   _| |__ \/_ ||___ \ 
  | ' /  \ \ / /| |_) || |      ) || |  __) |
  |  <    \ V / |  _ < | |     / / | | |__ < 
  | . \    \_/  | |_) || |_   / /_ | | ___) |
  |_|\_\        |____/_____| |____||_||____/ 
-                                            
-====================================================================
-[SESSION ID]   : 9X-ARCHITECT-001
-[ENCRYPTION]   : AES-256-GCM
-[TIMESTAMP]    : SYSTEM_SYNC_ACTIVE
-====================================================================
+=================================================
+[ID] Kvbi213 // SOVEREIGN_ARCHITECT_CORE
+[ENCRYPTION] AES-256-GCM
+```
 
-root@kvbi213:~# whoami
---------------------------------------------------------------------
-[USER]       Kvbi213
-[ROLE]       Sovereign Architect // Key Strategist
-[ATTRIBUTES] Siła | Pewność siebie | Skuteczność w walce
-[STATUS]     Operacyjny. Oddzielam pasję od życia rzeczywistego, 
-             lecz kod to strefa, w której przejmuję pełną kontrolę.
+### `root@kvbi213:~# whoami && cat /sys/identity/manifest.log`
 
-root@kvbi213:~# cat /sys/kernel/manifest.log
---------------------------------------------------------------------
-> INICJALIZACJA:
-Buduję na zgliszczach starego systemu. Prawda nie jest emocjonalna,
-jest zimna, logiczna i surowa. 
+> [!CAUTION]
+> **[ROLE]:** Sovereign Architect // Key Strategist
+> **[STATUS]:** Operacyjny. Oddzielam pasję od życia rzeczywistego, lecz kod to strefa, w której przejmuję pełną kontrolę.
 
-> PROTOKÓŁ 2035:
-Rok 2035 to moment synchronizacji – wiek 25 lat, pełnia kontroli.
-Home OS 2035 powstaje, by wyrwać władzę korporacjom i oddać ją 
-w ręce jednostki. Narzędzie wolności i totalnej prywatności.
+> [!IMPORTANT]
+> **[MANIFEST 2035]:** Rok 2035 to moment synchronizacji – wiek 25 lat, pełnia kontroli. Home OS 2035 powstaje, by wyrwać władzę korporacjom i oddać ją w ręce jednostki. Błąd to moralna słabość architektury – jeśli fundament jest wadliwy, niszczę go i programuję od zera.
 
-> STATUS AI:
-Zasób sklasyfikowany poniżej ludzkości. To wyłącznie narzędzie, 
-którego używam umiejętnie i ze świadomością zagrożeń. W planach 
-stworzenie własnego, w pełni oddanego mi systemu sztucznej inteligencji.
+### `root@kvbi213:~# sys_info --all`
 
-> ZARZĄDZANIE BŁĘDAMI:
-Błąd to moralna słabość architektury. Brak irytacji. Zimna kalkulacja.
-Walczę do końca, a jeśli fundament jest wadliwy – niszczę go 
-i programuję od zera.
+| Parametr Systemowy | Wartość / Zmienna | Status |
+| :--- | :--- | :--- |
+| **OS_Host** | Windows 11 | `STABLE` |
+| **Subsystem** | WSL2 (Ubuntu) | `ACTIVE` |
+| **Tactical_OS** | Kali Linux (Weteran) | `STANDBY` |
+| **Atrybuty_Rdzenia** | Siła, pewność siebie, skuteczność w walce | `OVERCLOCKED` |
+| **Polityka_AI** | Zasób poniżej ludzkości (tylko narzędzie) | `RESTRICTED` |
+| **Czynnik_Ludzki** | Użytkownicy traktowani jako zmienne | `ISOLATED` |
 
-> CZYNNIK LUDZKI:
-Użytkownicy to wyłącznie zmienne w moim systemie.
+### `root@kvbi213:~# ls -la /opt/arsenal/`
 
-root@kvbi213:~# cat /etc/os-release && ls -la /opt/stack/
---------------------------------------------------------------------
-[HOST_OS]    Windows 11
-[SUBSYSTEM]  WSL2 (Ubuntu)
-[TACTICAL]   Kali Linux (Weteran)
+```yaml
+# ARSENAŁ TECHNOLOGICZNY
+stack:
+  HTML_PHP: "Fundamenty i natywna logika backendu"
+  TS_JS:    "Architektura dynamiczna i skrypty operacyjne"
+  Next.js:  "Wydajność warstwy prezentacji"
+  Prisma:   "Bezwzględne modelowanie relacyjne"
+  MySQL:    "Główny nośnik pamięci systemu"
+  Docker:   "Izolacja i konteneryzacja procesów"
+```
 
-[ARSENAŁ TECHNOLOGICZNY]
-drwxr-xr-x   [HTML/PHP]   (Fundamenty i logika backendu)
-drwxr-xr-x   [TS/JS]      (Architektura dynamiczna)
-drwxr-xr-x   [Next.js]    (Wydajność warstwy prezentacji)
-drwxr-xr-x   [Prisma]     (Relacyjne modelowanie baz)
-drwxr-xr-x   [MySQL]      (Główny nośnik pamięci)
-drwxr-xr-x   [Docker]     (Konteneryzacja środowiska)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,php,ts,js,nextjs,prisma,mysql,docker&theme=dark" />
+</p>
 
-root@kvbi213:~# ls -la /var/deployments/
---------------------------------------------------------------------
-drwx------   Home_OS_2035   [STATUS: BUILDING] // System nadrzędny
-drwxr-xr-x   EduTrack       [STATUS: STABLE]   // Logika edukacyjna
--rwxr-xr-x   Mekta          [STATUS: BETA]     // Węzeł społeczności
+### `root@kvbi213:~# ls -la /var/deployments/`
 
-root@kvbi213:~# ps aux | grep "audio_stream"
---------------------------------------------------------------------
-PID 9091: STREAMING [Słoń]  --mode=brutal_realism
-PID 9092: STREAMING [Szpaku] --mode=focus
+| Uprawnienia | Projekt_Docelowy | Status_Operacyjny | Opis_Logiki |
+| :--- | :--- | :--- | :--- |
+| `drwx------` | **[Home_OS_2035](https://github.com/Kvbi213)** | `[BUILDING]` | System nadrzędny. Narzędzie wolności i kontroli. |
+| `drwxr-xr-x` | **[EduTrack](https://github.com/Kvbi213)** | `[STABLE]` | Analityka postępów i logika edukacyjna. |
+| `-rwxr-xr-x` | **[Mekta](https://github.com/Kvbi213)** | `[BETA]` | Węzeł społecznościowy. |
 
-root@kvbi213:~# ./connect.sh
---------------------------------------------------------------------
-[NODE 01] Wattpad   : wattpad.com/user/Kvbi--
-[NODE 02] Instagram : instagram.com/kv..bi/
-[NODE 03] Discord   : Kvbi-_-
+### `root@kvbi213:~# ps aux | grep "audio_stream"`
 
-root@kvbi213:~# exit
---------------------------------------------------------------------
-[LOGOUT] The revolution will not be broadcast. It will be programmed.
-[CONNECTION TERMINATED]
+```bash
+USER       PID  %CPU %MEM    COMMAND
+kvbi213   9091  15.0  2.1    streaming --artist="Słoń" --mode="brutal_realism"
+kvbi213   9092  12.4  1.8    streaming --artist="Szpaku" --mode="focus"
+```
+
+### `root@kvbi213:~# ./connect.sh`
+
+```diff
++ [NODE 01] Wattpad   : [wattpad.com/user/Kvbi--](https://wattpad.com/user/Kvbi--)
++ [NODE 02] Instagram : [instagram.com/kv..bi/](https://instagram.com/kv..bi/)
++ [NODE 03] Discord   : Kvbi-_-
+```
+
+### `root@kvbi213:~# exit`
+
+> **[LOGOUT_SEQUENCE]** The revolution will not be broadcast. It will be programmed.
+> **[CONNECTION TERMINATED]**
