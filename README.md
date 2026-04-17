@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=5C3A21&height=200&text=KVBI213&fontSize=75&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=68&descColor=8B5A2B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=200&text=KVBI213&fontSize=75&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=68&descColor=8B5A2B" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=100&section=header&text=[%20CURRENT_FOCUS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=80&section=header&text=[%20CURRENT_FOCUS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <table align="center" width="100%">
   <tr>
@@ -37,16 +37,15 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=60&section=footer" width="100%"/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=100&section=header&text=[%20SYSTEM_METRICS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=80&section=header&text=[%20SYSTEM_METRICS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true&bg_color=150d0a&title_color=C19A6B&text_color=8B5A2B" width="49%"/>
 &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="49%"/>
 
 <br/><br/>
 
@@ -54,11 +53,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=60&section=footer" width="100%"/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=[%20CORE_PROJECTS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=80&section=header&text=[%20CORE_PROJECTS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -69,11 +66,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=60&section=footer" width="100%"/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=100&section=header&text=[%20TECH_ARSENAL%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=80&section=header&text=[%20TECH_ARSENAL%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -92,14 +87,10 @@
 **[ DATABASES & TOOLS ]**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git&theme=dark&perline=13"/>
 
-<br/>
+<br/><br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=60&section=footer" width="100%"/>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=5C3A21&height=120&section=footer&fontColor=C19A6B&fontSize=16&text=//%20NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=120&section=footer&fontColor=8B5A2B&fontSize=16&text=//%20NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
 </div>
