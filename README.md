@@ -1,91 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=SUVEREIGN%20ARCHITECT%20//%20KVBI&fontSize=50&fontColor=00FF00&animation=twinkling&desc=%5B%20SYSTEM_BREACH_IN_PROGRESS%20%5D&descSize=20&descAlignY=70&descColor=00CC00" width="100%"/>
+# 🖥️ [SYSTEM_ACCESS_GRANTED]
+### 👤 USER: Kvbi213 | 🛠️ ROLE: Sovereign Architect
+**"Adrenaline doesn't paralyze—it calibrates the mind."**
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/AUTH-ACCESS_GRANTED-00FF00?style=for-the-badge&logo=lock&logoColor=black" />
-<img src="https://img.shields.io/badge/ROLE-ARCHITECT_OF_CHAOS-00FF00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LOG-ENCRYPTED-00FF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=black" /> 
+<img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00FF00?style=for-the-badge&logo=dependabot&logoColor=black" /> 
+<img src="https://img.shields.io/badge/TARGET-HOME_OS_2035-00FF00?style=for-the-badge&logo=homeassistant&logoColor=black" />
 
 </div>
 
 ---
 
-### 📂 [DATA_LOG] System_Profiling
+### 🛡️ [PROTOCOL] Identity_Authentication
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ [CORE_PROCESSES]</h4>
-      <ul>
-        <li><b>Entity:</b> Kvbi213</li>
-        <li><b>Objective:</b> Coding reality, one line at a time.</li>
-        <li><b>Philosophy:</b> Truth-driven system architecture.</li>
-        <li><b>Current_Layer:</b> <a href="https://github.com/Kvbi213"><b>Home OS 2035</b></a></li>
-      </ul>
-      <code>"Adrenaline doesn't paralyze—it calibrates the mind."</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📡 [DATA_STREAMS]</h4>
-      <p>
-        <a href="https://wattpad.com/user/Kvbi--"><img src="https://img.shields.io/badge/RECORDS-Wattpad-000000?style=for-the-badge&logo=wattpad&logoColor=00FF00"/></a><br/>
-        <a href="https://instagram.com/kv..bi/"><img src="https://img.shields.io/badge/FOOTPRINT-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/></a><br/>
-        <a href="#"><img src="https://img.shields.io/badge/NODE-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+> [!CAUTION]
+> **SYSTEM_ALERT:** Truth detected. Standard reality is being overwritten by custom architecture.
+
+> [!IMPORTANT]
+> **CORE_PHILOSOPHY:** I do not follow the system—I build a superior mechanism upon its ruins. Focusing on systemic stoicism and reality automation.
 
 ---
 
-### 🛠️ [SPEC] Technical_Arsenal
+### 📂 [DIR] /home/kvbi/config/
+```yaml
+identity:
+  alias: Kvbi213
+  specialization: [System_Architecture, Fullstack_Development]
+  current_focus: Home_OS_2035
+  methodology: Zero_Waste_Logic
+  status: Deciphering_Complexity... [████████▒▒] 88%
+🛠️ [SPEC] Technical_ArsenalCATEGORYSOURCE_CODESTATUSLanguagesTypeScript, JavaScript, Python, C++MASTEREDFrameworksReact, Next.js, Node.js, ExpressOPTIMIZEDInfrastructurePrisma, MySQL, Docker, Linux, GitSTABLE<p align="center"><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts,js,react,nextjs,nodejs,prisma,mysql,docker,linux,git,py,cpp%26theme%3Ddark" /></p>📁 [LS] Project_DeploymentsBash$ ls -la --sort=priority
+Home OS 2035 [ROOT] — Automated reality architecture.EduTrack [STABLE] — Advanced educational tracking logic.Mekta [BETA] — Community platform infrastructure.📊 [METRICS] Performance_Analysis<table align="center" width="100%"><tr><td align="center" width="50%"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKvbi213%26show_icons%3Dtrue%26theme%3Dterminal%26hide_border%3Dtrue%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3D00FF00" /></td><td align="center" width="50%"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKvbi213%26layout%3Dcompact%26theme%3Dterminal%26hide_border%3Dtrue%26title_color%3D00FF00%26text_color%3D00FF00" /></td></tr></table>📡 [CONN] Secure_StreamsDiff+ [DATA_STREAM_01]: [Wattpad](https://wattpad.com/user/Kvbi--) // Tactical Chronicles
++ [DATA_STREAM_02]: [Instagram](https://instagram.com/kv..bi/) // Digital Footprints
++ [DATA_STREAM_03]: Discord: Kvbi-_- // Direct_Link_Active
+<div align="center">[ SESSION_TERMINATION_SEQUENCE_INITIATED ]REVOLUTION WILL NOT BE BROADCAST. IT WILL BE PROGRAMMED.<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D30%26section%3Dfooter%26text%3DCONNECTION_CLOSED%26fontSize%3D15%26fontColor%3D00FF00" width="100%"/></div>
+-----
 
-<div align="center">
+### Why this maximizes `.md` potential:
 
-**[ LANGUAGES ]**
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp&theme=dark" />
+1.  **GitHub Alerts (`> [!CAUTION]`)**: This is the newest and most native way to make sections stand out. It uses the official GitHub UI styles, ensuring it looks perfect in both dark and light modes (though it's optimized for the "dark terminal" feel).
+2.  **YAML & Bash Syntax**: By using specific language tags in code blocks, you get actual syntax highlighting that makes the text look like it's inside a real code editor.
+3.  **HTML Tables for Layout**: Standard Markdown is bad at side-by-side positioning. Using `<table>` allows the "Technical Arsenal" and "Performance Metrics" to align perfectly, making the profile feel like a high-end dashboard.
+4.  **Optimized Skill Icons**: Using a single `skillicons` call keeps the code clean and the loading time fast, while providing high-quality SVGs.
+5.  **Dynamic Status**: The "Status Badges" at the top give it an "Official System" look immediately upon loading.
 
-**[ FRAMEWORKS & TOOLS ]**
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma,mysql,docker,linux,git&theme=dark" />
-
-</div>
-
----
-
-### 📊 [METRICS] Activity_Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&theme=github-dark-green&bg_color=000000&color=00ff00&line=00ff00&point=00cc00&hide_border=true" width="96%" />
-
-</div>
-
----
-
-### 📁 [FILES] Active_Projects
-
-<div align="center">
-
-| PERMISSION | PROJECT | STACK | STATUS |
-| :--- | :--- | :--- | :---: |
-| `drwxr-xr-x` | **Home OS 2035** | `TS` `Node` | 🔴 ENCRYPTED |
-| `drwxr-xr-x` | **EduTrack** | `React` `Prisma` | 🟢 ACTIVE |
-| `-rwxr-xr-x` | **Mekta** | `JS` `CSS` | 🟡 BETA |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=REVOLUTION%20WILL%20NOT%20BE%20BROADCAST.%20IT%20WILL%20BE%20PROGRAMMED.&fontSize=18&fontColor=00FF00" width="100%"/>
-
-**[ SESSION_CLOSED ]**
-
-</div>
+**How to use:** Copy and paste this directly into your **Kvbi213** `README.md`. It will l
