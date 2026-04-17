@@ -119,3 +119,22 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=120&section=footer&fontColor=8B5A2B&fontSize=16&text=//%20ERROR_PROTOCOL:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
 </div>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=80&section=header&text=[%20PERFORMANCE_METRICS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true&bg_color=150d0a&title_color=C19A6B&text_color=8B5A2B&icon_color=C19A6B&v=1" width="49%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true&bg_color=150d0a&title_color=C19A6B&text_color=8B5A2B&v=1" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B&v=1" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&bg_color=150d0a&color=C19A6B&line=8B5A2B&point=C19A6B&hide_border=true&v=1" width="98%"/>
+
+</div>
