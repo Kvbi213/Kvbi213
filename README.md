@@ -1,84 +1,77 @@
 <div align="center">
-
-# 🖥️ [SYSTEM_SESSION_INITIATED]
-### 👤 USER: Kvbi213 | 🛠️ ROLE: Sovereign Architect
-
----
-
-<img src="https://img.shields.io/badge/AUTH-ACCESS_GRANTED-00FF00?style=for-the-badge&logo=lock&logoColor=black" /> 
-<img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00FF00?style=for-the-badge&logo=dependabot&logoColor=black" /> 
-<img src="https://img.shields.io/badge/TARGET-HOME_OS_2035-00FF00?style=for-the-badge&logo=homeassistant&logoColor=black" />
-
+  <img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&text=root@kvbi213:~%23%20boot%20--suvereign-core&fontSize=20&fontColor=00FF00" width="100%"/>
 </div>
 
----
-
-## 🛡️ [PHASE_01] Identity_Authentication
+### [SYSTEM_LOG] IDENTITY_SEQUENCE_INITIALIZED
 
 > [!CAUTION]
-> **SYSTEM_ALERT:** Truth detected. Standard reality is being overwritten by custom architecture.
-
-> [!IMPORTANT]
-> **CORE_PHILOSOPHY:** I do not follow the system—I build a superior mechanism upon its ruins. Focusing on systemic stoicism and reality automation.
+> **SOVEREIGN ARCHITECT DETECTED**
+> Operational Stoicism & Discipline active. Cold-blooded analysis in progress...
 
 ```yaml
-identity:
-  alias: Kvbi213
-  specialization: [System_Architecture, Fullstack_Development]
-  current_focus: Home_OS_2035
-  methodology: Zero_Waste_Logic
-  status: Deciphering_Complexity... [████████▒▒] 88%
-🛠️ [PHASE_02] Technical_Arsenal
-💾 [LANGUAGES]
-TypeScript // JavaScript // Python // C++
+discipline: "MAX_RYGOR"
+logic_state: "OVERCLOCKED"
+social_strategy: "MULTI-LAYER_CAMOUFLAGE"
+ethics: "VIGILANTE_CODE"
+status: "ADRENALINE_CALIBRATED"
+```
 
-🏗️ [FRAMEWORKS]
-React.js // Next.js // Node.js // Express
+---
 
-🗄️ [INFRASTRUCTURE]
-Prisma // MySQL // Docker // Linux // Git
+> [!IMPORTANT]
+> ### SYSTEM_ALERT: TRUTH_DETECTED
+> I do not follow the system—I build a superior mechanism upon its ruins. Truth-driven architecture is the only way forward.
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dts,js,react,nextjs,nodejs,prisma,mysql,docker,linux,git,py,cpp%26theme%3Ddark%26perline%3D6" />
-</div>
+---
 
-📁 [PHASE_03] Active_Deployments
-Bash
-$ ls -la --sort=priority
-🔴 [ROOT] Home OS 2035
-Automated reality architecture. The bridge between code and physical space.
+### [CMD] cat /bin/tools
 
-🟢 [STABLE] EduTrack
-Advanced educational tracking logic. Optimizing the flow of knowledge acquisition.
+```json
+{
+  "tech_specs": {
+    "core": ["TypeScript", "JavaScript"],
+    "frameworks": ["Next.js", "React.js"],
+    "persistence": ["Prisma", "MySQL", "PostgreSQL"],
+    "infrastructure": ["Docker", "Linux_Kernel", "Shell_Scripting"]
+  }
+}
+```
 
-🟡 [BETA] Mekta
-Community platform infrastructure. Scalable networking logic.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,prisma,mysql,docker,linux,py,cpp,bash&theme=dark" />
+</p>
 
-📊 [PHASE_04] System_Metrics
-<div align="center">
+---
 
-[ OVERALL_ACTIVITY ]
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKvbi213%26show_icons%3Dtrue%26theme%3Dterminal%26hide_border%3Dtrue%26title_color%3D00FF00%26icon_color%3D00FF00%26text_color%3D00FF00" width="80%" />
+### [CMD] ls -la /deployments
 
-[ LANGUAGE_DISTRIBUTION ]
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKvbi213%26layout%3Dcompact%26theme%3Dterminal%26hide_border%3Dtrue%26title_color%3D00FF00%26text_color%3D00FF00" width="80%" />
+| Permission | Name | Version | Status |
+| :--- | :--- | :--- | :--- |
+| `drwxr-xr-x` | **[Home_OS_2035](https://github.com/Kvbi213)** | `v0.9-alpha` | `[BUILDING_CORE]` |
+| `drwxr-xr-x` | **[EduTrack](https://github.com/Kvbi213)** | `v2.1-stable` | `[ACTIVE]` |
+| `-rwxr-xr-x` | **[Mekta_Engine](https://github.com/Kvbi213)** | `v1.0-beta` | `[MAINTAINING]` |
 
-[ COMMIT_STREAK ]
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DKvbi213%26theme%3Dterminal%26hide_border%3Dtrue%26stroke%3D00FF00%26ring%3D00FF00%26fire%3D00FF00%26currStreakLabel%3D00FF00" width="80%" />
+---
 
-</div>
+### [CMD] top -u kvbi213 --metrics
 
-📡 [PHASE_05] Secure_Streams
-Diff
-+ [DATA_STREAM_01]: [Wattpad](https://wattpad.com/user/Kvbi--) // Tactical Chronicles
-+ [DATA_STREAM_02]: [Instagram](https://instagram.com/kv..bi/) // Digital Footprints
-+ [DATA_STREAM_03]: Discord: Kvbi-_- // Direct_Link_Active
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true" height="150" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true" height="150" />
+</p>
 
-[ SESSION_TERMINATION_SEQUENCE_INITIATED ]
+---
 
-REVOLUTION WILL NOT BE BROADCAST. IT WILL BE PROGRAMMED.
+### [CMD] ssh-add -L // Secure_Streams
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D000000%26height%3D40%26section%3Dfooter%26text%3DCONNECTION_CLOSED%26fontSize%3D18%26fontColor%3D00FF00" width="100%"/>
+```diff
++ [WATT]: https://wattpad.com/user/Kvbi--
++ [INST]: https://instagram.com/kv..bi/
++ [DISC]: Kvbi-_-
+```
 
+---
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&text=USER_LOGOUT_SUCCESSFUL&fontSize=15&fontColor=00FF00" />
 </div>
