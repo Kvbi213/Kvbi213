@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=5C3A21&height=200&text=KVBI213&fontSize=75&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=68&descColor=8B5A2B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=150d0a&height=180&text=KVBI213&fontSize=65&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=72&descColor=8B5A2B" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=100&section=header&text=[%20CURRENT_FOCUS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1A110C&height=70&section=header&text=[%20CURRENT_FOCUS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <table align="center" width="100%">
   <tr>
@@ -37,11 +37,9 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=60&section=footer" width="100%"/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=100&section=header&text=[%20SYSTEM_METRICS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2B1B17&height=70&section=header&text=[%20SYSTEM_METRICS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -52,17 +50,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&bg_color=150d0a&color=C19A6B&line=8B5A2B&point=C19A6B&hide_border=true" width="98%"/>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=60&section=footer" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=[%20CORE_PROJECTS%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3C2415&height=70&section=header&text=[%20CORE_PROJECTS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -73,11 +65,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=60&section=footer" width="100%"/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=100&section=header&text=[%20TECH_ARSENAL%20]&fontSize=24&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2B1B17&height=70&section=header&text=[%20TECH_ARSENAL%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -100,10 +90,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=60&section=footer" width="100%"/>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=5C3A21&height=120&section=footer&fontColor=C19A6B&fontSize=16&text=//%20NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=150d0a&height=80&section=footer&fontColor=8B5A2B&fontSize=14&text=//%20NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
 </div>
