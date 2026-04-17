@@ -47,7 +47,12 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&text=SCANNING_SYSTEM_INTEGRITY...&fontSize=30&fontColor=00FF00&animation=glimmer" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&text=BREACH_LEVEL:_CRITICAL&fontSize=20&fontColor=FF0000&animation=twinkle" width="100%"/>
+
 
 </div>
 
