@@ -1,94 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=200&text=KVBI213&fontSize=75&fontColor=C19A6B&animation=fadeIn&desc=Developer%20%2F%2F%20System%20Architect&descSize=18&descAlignY=68&descColor=8B5A2B" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=200&text=KVBI213&fontSize=80&fontColor=C19A6B&animation=twinkling&desc=SYSTEM%20ARCHITECT%20//%20FULL-STACK%20ENGINEER&descSize=16&descAlignY=72&descColor=8B5A2B" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kvbi213&color=3C2415&style=for-the-badge&label=VISITORS" alt="visitors"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kvbi213?color=2B1B17&label=FOLLOWERS&style=for-the-badge&logo=github" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-Building_Real_Systems-1A110C?style=for-the-badge" alt="status"/>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=80&section=header&text=[%20CURRENT_FOCUS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>[ OBJECTIVES ]</h3>
-      <p>Developer focused on building <b>real systems</b> and practical solutions.<br/>Passionate about scalable architecture and clean code.</p>
-      <ul>
-        <li>▸ Building real, working applications</li>
-        <li>▸ Improving backend logic & system design</li>
-        <li>▸ Learning scalable architecture</li>
-        <li>▸ Writing clean and efficient code</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>[ ENVIRONMENT & COMMS ]</h3>
-      <p><b>SYS.OS:</b> Windows 11 // WSL2 (Ubuntu) // Kali<br/><b>AUDIO:</b> Słoń, Szpaku <i>(Focus Stream)</i></p>
-      <a href="#"><img src="https://img.shields.io/badge/Discord-Kvbi--_---150d0a?style=for-the-badge&logo=discord&logoColor=C19A6B"/></a><br/><br/>
-      <a href="https://instagram.com/kv..bi/"><img src="https://img.shields.io/badge/Instagram-@kv..bi-150d0a?style=for-the-badge&logo=instagram&logoColor=C19A6B"/></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2B1B17&height=80&section=header&text=[%20SYSTEM_METRICS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=150d0a&ring=8B5A2B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="49%"/>
+[![Followers](https://img.shields.io/github/followers/Kvbi213?color=1A110C&labelColor=3C2415&style=for-the-badge&logo=github)](https://github.com/Kvbi213)
+![Visitors](https://komarev.com/ghpvc/?username=Kvbi213&color=1A110C&style=for-the-badge&label=VISITORS&labelColor=3C2415)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-C19A6B?color=1A110C&labelColor=3C2415&style=for-the-badge)](https://github.com/Kvbi213)
+[![Location](https://img.shields.io/badge/LOCATION-POLAND-C19A6B?color=1A110C&labelColor=3C2415&style=for-the-badge)](https://github.com/Kvbi213)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kvbi213&bg_color=150d0a&color=C19A6B&line=8B5A2B&point=C19A6B&hide_border=true" width="98%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=60&text=░░░░░░░░░░░░░░░░░░░░░░░%20[%20SYSTEM_READY%20]%20░░░░░░░░░░░░░░░░░░░░░░░&fontSize=14&fontColor=C19A6B&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C2415&height=80&section=header&text=[%20CORE_PROJECTS%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<div align="center">
+  <code>[ MISSION: ARCHITECTING_THE_DIGITAL_FRONTIER ]</code>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=%E2%97%87%20CORE_DEPLOYS%20%E2%97%87&fontSize=22&fontColor=C19A6B&fontAlignY=50&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-| PROJECT | DESCRIPTION | STACK | STATUS |
+| PROJECT | ARCHITECTURE | STACK | STATUS |
 | :--- | :--- | :--- | :---: |
-| **[Home_OS_2035](https://github.com/Kvbi213)** | Concept system focused on user control and independence. | `TypeScript` `Node.js` | <img src="https://img.shields.io/badge/-BUILDING-8B5A2B?style=for-the-badge&logoColor=black" height="22"> |
-| **[EduTrack](https://github.com/Kvbi213)** | Tracking learning progress and analyzing results. | `React` `Prisma` | <img src="https://img.shields.io/badge/-STABLE-3C2415?style=for-the-badge&logoColor=white" height="22"> |
+| 🏠 **[Home-OS-2035](https://github.com/Kvbi213/Home-OS-2035)** | Smart Home Controller & CLI Dashboard | `Node.js` • `CLI` | <img src="https://img.shields.io/badge/-STABLE-8B5A2B?style=flat-square" height="20"> |
+| 🛡️ **WhiteHat-Hack** | Cybersecurity & Network Hardening Toolkit | `Shell` • `Fish` | <img src="https://img.shields.io/badge/-CLOSED_BETA-1A110C?style=flat-square" height="20"> |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=80&section=header&text=[%20TECH_ARSENAL%20]&fontSize=22&fontColor=C19A6B&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=%E2%97%87%20SYSTEM_INTELLIGENCE%20%E2%97%87&fontSize=22&fontColor=C19A6B&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+| UNIT | VECTOR | CORE_TOOLS |
+| :--- | :--- | :--- |
+| ⚡ **SEC_NET** | L2/L3 Infrastructure Auditing | `Nmap` • `UniFi` |
+| 🔍 **OSINT** | Identity Tracking & Data Analysis | `Python` • `OTE` |
+| ⚙️ **SERVER** | Self-hosting & Local Cloud | `Fujitsu Futro` |
+| 🏗️ **ENGINEER** | Rapid Prototyping & CAD | `Bambu Lab` |
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=%E2%97%87%20TECH_ARSENAL%20%E2%97%87&fontSize=22&fontColor=C19A6B&fontAlignY=50&animation=twinkling" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-**[ LANGUAGES ]**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php&theme=dark&perline=13"/>
+**[ LANGUAGES_&_CORE ]**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,php,html,css&theme=dark"/>
 
 <br/><br/>
 
-**[ FRAMEWORKS & LOGIC ]**<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma&theme=dark&perline=13"/>
+**[ FRAMEWORKS_&_RUNTIMES ]**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,prisma,vite&theme=dark"/>
 
 <br/><br/>
 
-**[ DATABASES & TOOLS ]**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git&theme=dark&perline=13"/>
+**[ INFRASTRUCTURE_&_SECURITY ]**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,kali,mysql,firebase,bash&theme=dark"/>
 
 <br/><br/>
+
+**[ FEATURED_SYSTEM_STACK ]**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,nextjs,docker,kali&theme=dark&perline=5"/>
 
 </div>
 
+<br/>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5A2B&height=40&text=[%20AUDIT_PATH:%200x2A1B%20]%20%20%20[%20SESSION_ID:%20STG_77%20]&fontSize=14&fontAlignY=50&animation=twinkling" width="400"/>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=100&section=header&text=%E2%97%87%20SYSTEM_METRICS%20%E2%97%87&fontSize=22&fontColor=C19A6B&fontAlignY=50&animation=fadeIn" width="100%"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=1A110C&height=120&section=footer&fontColor=8B5A2B&fontSize=16&text=//%20NOTE:%20If%20the%20system%20is%20flawed%20—%20rebuild%20it." width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=terminal&hide_border=true&background=1A110C80&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideNums=C19A6B&currStreakNum=C19A6B&sideLabels=8B5A2B&dates=8B5A2B" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kvbi213&show_icons=true&theme=terminal&hide_border=true&bg_color=1A110C80&title_color=C19A6B&text_color=8B5A2B&icon_color=C19A6B" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=terminal&hide_border=true&bg_color=1A110C80&title_color=C19A6B&text_color=8B5A2B&icon_color=C19A6B" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kvbi213&theme=terminal&no-bg=true&no-frame=true&column=7" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN_CODE-C19A6B?color=1A110C&labelColor=3C2415&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI/UX-ADVANCED_DESIGN-C19A6B?color=1A110C&labelColor=3C2415&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND-API_EXPERT-C19A6B?color=1A110C&labelColor=3C2415&style=for-the-badge"/>
+
+<br/><br/>
+
+---
+
+`[ LOG: 2026-05-15 ]`
+> **"In code we trust, for it is absolute. Humans must be scanned to be understood—and audited to predict their failure."**
+
+---
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A110C&height=80&text=[%20END_OF_FILE%20]&fontSize=20&fontColor=8B5A2B&fontAlignY=50&animation=fadeIn" width="100%"/>
+
 </div>
