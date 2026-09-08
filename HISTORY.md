@@ -41,3 +41,19 @@ Status: ZGODNY Z PROTOKOŁEM ANTIGRAVITY v3.0
 
 ---
 
+## v 1.1.1 — 2026-09-08
+
+**Typ:** PATCH  
+**Zakres:** Naprawa ładowania OmniDash Repo Card, Overall Stats, Top Languages (przełączenie na instancję eight-theta) oraz wdrożenie lokalnych ikon SVG z wymiarami 24x24 px.
+
+### Zmiany
+- [!] Naprawiono: Błąd rate-limitu (Maximum retries exceeded) na kartach GitHub Stats i Repo Pin poprzez przekierowanie do stabilnej instancji `eight-theta`.
+- [!] Naprawiono: Niewidoczne ikony spowodowane zapadaniem się jednostki `1em` w tagach `<img>` — utworzono i zintegrowano pliki SVG w `assets/icons/` ze sztywnymi wymiarami `24x24`.
+- [*] Zmodyfikowano: Plik `preview.html` ładuje bezpośrednio treść bez konfliktów polityki CORS w protokole `file://`.
+
+### Audyt
+Status: ZGODNY Z PROTOKOŁEM ANTIGRAVITY v3.0
+
+---
+
+
