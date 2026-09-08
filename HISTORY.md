@@ -22,3 +22,22 @@ Wszystkie wydania podlegają zasadom Semantic Versioning (SemVer) oraz standardo
 Status: ZGODNY Z PROTOKOŁEM ANTIGRAVITY v3.0
 
 ---
+
+## v 1.1.0 — 2026-09-08
+
+**Typ:** MINOR  
+**Zakres:** Chirurgiczna redukcja projektów (usunięcie Home-OS i WhiteHat-Hack), zamiana wszystkich emotek na wektory SVG Lucide/SimpleIcons, wdrożenie bibliotek Readme-Typing SVG oraz GitHub Stats Repo Pin API.
+
+### Zmiany
+- [+] Dodano: Dedykowaną, dynamiczną kartę GitHub Repo Pin dla `ai-system-dashboard`.
+- [+] Dodano: Autorski baner wektorowy SVG (`assets/header.svg`) z siatką inżynierską i pulsem telemetrycznym.
+- [+] Dodano: Animowaną bibliotekę `Readme-Typing-SVG` w terminalu nagłówkowym.
+- [+] Dodano: Wektorowe odznaki techniczne Flat-Square z oficjalnymi wektorami SimpleIcons.
+- [*] Zmodyfikowano: Wyeliminowano w 100% emotikony, wprowadzając ostre wektory SVG Lucide & Octicons via Iconify API.
+- [-] Usunięto: Projekty `Home-OS-2035` oraz `WhiteHat-Hack` z sekcji wdrożeń ("Chirurgiczna Redukcja" na polecenie operatora).
+
+### Audyt
+Status: ZGODNY Z PROTOKOŁEM ANTIGRAVITY v3.0
+
+---
+

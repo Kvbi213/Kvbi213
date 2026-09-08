@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200">
+  <defs>
+    <!-- Siatka tła -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#141414" stroke-width="1"/>
+    </pattern>
+    <!-- Gradient poświaty -->
+    <radialGradient id="glow" cx="80%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ramka główna -->
+  <rect width="850" height="200" fill="#000000" rx="6" stroke="#222222" stroke-width="1.5"/>
+  <rect width="850" height="200" fill="url(#grid)" rx="6"/>
+  <rect width="850" height="200" fill="url(#glow)" rx="6"/>
+
+  <!-- Pasek górny terminala -->
+  <line x1="0" y1="36" x2="850" y2="36" stroke="#222222" stroke-width="1"/>
+  
+  <!-- Punkty kontrolne -->
+  <circle cx="24" cy="18" r="4" fill="#333333"/>
+  <circle cx="38" cy="18" r="4" fill="#222222"/>
+  <circle cx="52" cy="18" r="4" fill="#181818"/>
+
+  <!-- Tekst w pasku górnym -->
+  <text x="74" y="22" fill="#666666" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="600" letter-spacing="1.5">TERMINAL // SYSTEM_IDENTIFIER: KVBI213</text>
+  
+  <!-- Puls statusu operacyjnego -->
+  <circle cx="780" cy="18" r="4" fill="#22C55E">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="792" y="22" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10" font-weight="700" letter-spacing="1">ONLINE</text>
+
+  <!-- Główny Nagłówek Typograficzny -->
+  <text x="35" y="94" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="44" font-weight="900" letter-spacing="-1">JAKUB LIS</text>
+  <text x="270" y="94" fill="#444444" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="44" font-weight="900" letter-spacing="-1">// KVBI213</text>
+
+  <!-- Podtytuł inżynierski -->
+  <text x="36" y="128" fill="#A1A1AA" font-family="ui-monospace, SFMono-Regular, monospace" font-size="13" font-weight="600" letter-spacing="3.5">FULL-STACK DEVELOPER &amp; SYSTEM BUILDER</text>
+
+  <!-- Dolny pasek telemetryczny -->
+  <line x1="35" y1="150" x2="815" y2="150" stroke="#1E1E1E" stroke-width="1"/>
+
+  <text x="35" y="174" fill="#666666" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10" letter-spacing="1.5">FOCUS: HIGH-PERFORMANCE WEB • AI TOOL-CALLING • SERVERLESS</text>
+  <text x="660" y="174" fill="#888888" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10" letter-spacing="1.5">BASE: POLAND [UTC+2]</text>
+</svg>

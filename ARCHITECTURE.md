@@ -1,7 +1,7 @@
 # GitHub Profile — Mapa Architektury Systemu
 
 ## Status Systemu
-- **Wersja:** v1.0.0
+- **Wersja:** v1.1.0
 - **Ostatnia aktualizacja:** 2026-09-08
 - **Kryptonim profilu:** `Kvbi213 / Profile-OS`
 - **Integralność:** ZGODNA Z PROTOKOŁEM ANTIGRAVITY v3.0
@@ -19,20 +19,23 @@ Architektura wizualna bazuje bezpośrednio na oficjalnym portfolio: [`kvbi-portf
 | **Typografia Główna** | `#FFFFFF` (Solid White) | Nagłówki, kluczowe wskaźniki |
 | **Typografia Pomocnicza** | `#888888` / `#A1A1AA` | Metadane, opisy, etykiety techniczne |
 | **Sygnał Telemetryczny** | `#22C55E` (Emerald Pulse) | Status operacyjny systemu (ONLINE) |
+| **Standard Ikonograficzny** | Wektorowe ikony SVG (Lucide / Octicons / SimpleIcons) | Całkowita eliminacja emotek na rzecz inżynierskich wektorów |
 
 ---
 
 ## 2. Rejestr Sekcji Profilu (`README.md`)
 
-| Sekcja | Komponent | Źródło danych / Narzędzie | Rola |
+| Sekcja | Komponent | Źródło danych / Narzędzie / Biblioteka | Rola |
 |---|---|---|---|
-| **01. HERO / IDENTITY** | Dynamic Banner + Bio | Capsule Render API (`#000000` / `#FFFFFF`) | Identyfikacja inżyniera, tytuł zawodowy |
-| **02. TELEMETRY RADAR** | Badges Bar | Shields.io & Komarev | Status systemu, baza, odnośnik do portfolio |
-| **03. ENGINEERING ETHOS** | Minimal Quote Block | ASCII / Markdown Blockquote | Filozofia: Minimalizm. Wydajność. Precyzja. |
-| **04. CORE DEPLOYS** | Featured Projects Grid | Markdown Tables + Live Badges | Prezentacja `ai-system-dashboard`, portfolio i narzędzi |
-| **05. TECH ARSENAL** | Categorized Stack Matrix | Skillicons (`theme=dark`) + Badges | 4 filary: Frontend, Backend, Chmura, AI & Security |
-| **06. SYSTEM METRICS** | GitHub Analytics | Readme-Stats & Streak Stats API | Wskaźniki commitów, języki, streak (monochrome) |
-| **07. TERMINAL FOOTER** | System Audit Log | Monospace Code Block | Sygnatura, linki komunikacyjne, status EOF |
+| **01. HERO / IDENTITY** | Bespoke Vector SVG Banner | `assets/header.svg` | Wektorowy terminal inżynierski z siatką i radarem |
+| **02. DYNAMIC TERMINAL** | Animated Typing SVG | Readme-Typing SVG API (`demolab.com`) | Dynamiczna symulacja wiersza poleceń |
+| **03. TELEMETRY RADAR** | Badges Bar | Shields.io (Flat-Square) & Komarev | Status systemu, baza, odnośnik do portfolio |
+| **04. ENGINEERING ETHOS** | Minimal Quote Block | ASCII / Markdown Blockquote | Filozofia: Minimalizm. Wydajność. Precyzja. |
+| **05. CORE DEPLOYS** | Featured Systems + Live Pin | GitHub Stats Repo Pin API + Wektorowe tabele | Prezentacja `ai-system-dashboard` (OmniDash) i Portfolio OS |
+| **06. SYSTEM INTELLIGENCE** | Wektory Operacyjne | Tabele Markdown + Wektory Lucide via Iconify | 4 filary inżynierskie |
+| **07. TECH ARSENAL** | Vector Badges Matrix | Shields Flat-Square z oficjalnymi wektorami SimpleIcons | Frontend, Backend, Cloud & Security |
+| **08. SYSTEM METRICS** | GitHub Analytics | Readme-Stats & DenverCoder1 Streak Stats API | Wskaźniki commitów, języki, streak (monochrome) |
+| **09. TERMINAL FOOTER** | System Dispatch Log | Monospace Code Block + Lucide terminal vector | Sygnatura, status zakończenia transmisji |
 
 ---
 
@@ -49,8 +52,10 @@ github-profile-readme/
 ├── .gitignore              ← Wykluczenia systemowe
 │
 ├── /docs/
-│   ├── /versions/          ← Logi wydań (v1.0.0.md, ...)
+│   ├── /versions/          ← Logi wydań (v1.0.0.md, v1.1.0.md)
+│   ├── /architecture/      ← Diagramy architektury
 │   └── /errors/            ← Rejestr ewentualnych anomalii renderowania
 │
-└── /assets/                ← Lokalne zasoby pomocnicze
+└── /assets/
+    └── header.svg          ← Autorski wektorowy baner systemowy SVG
 ```

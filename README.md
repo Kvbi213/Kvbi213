@@ -1,16 +1,27 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=222222&strokeWidth=1&height=180&text=JAKUB%20LIS%20//%20KVBI213&fontSize=42&fontColor=FFFFFF&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descSize=15&descColor=888888&descAlignY=68" width="100%"/>
+<!-- BESPOKE SYSTEM HEADER BANNER -->
+<img src="assets/header.svg" width="100%" alt="Jakub Lis // Kvbi213 - System Builder & Full-Stack Engineer" />
 
 <br/>
 
-<!-- RADAR & TELEMETRY BADGES -->
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kvbi--portfolio.web.app-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000)](https://kvbi-portfolio.web.app/)
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&logo=statuspage&logoColor=22C55E&labelColor=111111)](https://kvbi-portfolio.web.app/)
-[![Followers](https://img.shields.io/github/followers/Kvbi213?color=000000&labelColor=111111&style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Kvbi213)
-![Visitors](https://komarev.com/ghpvc/?username=Kvbi213&color=000000&style=for-the-badge&label=VISITORS&labelColor=111111)
-[![Location](https://img.shields.io/badge/LOCATION-POLAND-000000?style=for-the-badge&logo=target&logoColor=FFFFFF&labelColor=111111)](https://github.com/Kvbi213)
+<!-- DYNAMIC TYPING SVG -->
+<a href="https://kvbi-portfolio.web.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=780&height=46&lines=%3E+INITIALIZING+HIGH-PERFORMANCE+SYSTEMS...;%3E+AI+TOOL-CALLING+%26+AUTONOMOUS+AGENTS;%3E+MINIMALIZM.+WYDAJNO%C5%9A%C4%86.+PRECYZJA.+ZERO+BLOAT.;%3E+REACT+19+%E2%80%A2+NODE.JS+%E2%80%A2+GROQ+AI+%E2%80%A2+FIREBASE" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- LIVE TELEMETRY RADAR -->
+<a href="https://kvbi-portfolio.web.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-kvbi--portfolio.web.app-000000?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=111111" alt="Portfolio" />
+</a>
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=flat-square&logo=statuspage&logoColor=22C55E&labelColor=111111" alt="Status Operational" />
+<a href="https://github.com/Kvbi213">
+  <img src="https://img.shields.io/github/followers/Kvbi213?color=000000&labelColor=111111&style=flat-square&logo=github&logoColor=FFFFFF" alt="Followers" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Kvbi213&color=000000&style=flat-square&label=VISITORS&labelColor=111111" alt="Visitors" />
+<img src="https://img.shields.io/badge/LOCATION-POLAND-000000?style=flat-square&logo=target&logoColor=ffffff&labelColor=111111" alt="Location" />
 
 <br/><br/>
 
@@ -33,100 +44,161 @@
 
 ---
 
-### ◈ CORE_DEPLOYS & WYBRANE PROJEKTY
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:git-branch.svg?color=%23ffffff" width="18" height="18" align="center" /> 
+  FEATURED SYSTEMS // CORE DEPLOYS
+</h3>
 
 <div align="center">
 
-| PROJEKT | TYP / ARCHITEKTURA | STOS TECHNOLOGICZNY | STATUS |
-| :--- | :--- | :--- | :---: |
-| 🌌 **[OmniDash](https://github.com/Kvbi213/ai-system-dashboard)** | **AI Command Center & Local-First OS**<br/>Autonomiczny asystent z LLM Tool-Calling (Groq/LLaMA 3), telemetria systemowa live, harmonogram tła i widżety news/krypto. | `React 18` • `Node.js` • `Groq AI` • `TailwindCSS` • `SQLite` | <img src="https://img.shields.io/badge/ACTIVE-PRODUCTION-FFFFFF?style=flat-square&color=000000&labelColor=22C55E" height="20"> |
-| ⚡ **[Kvbi Portfolio OS](https://kvbi-portfolio.web.app/)** | **Production SPA & Serverless Command**<br/>Wizytówka inżynierska z dynamicznym botem kalendarza, telemetrią RODO, zero-bloat i18n i ochroną App Check. | `React 19` • `Vite` • `Firebase` • `Groq SDK` • `TailwindCSS` | <img src="https://img.shields.io/badge/ONLINE-SYSTEM-FFFFFF?style=flat-square&color=000000&labelColor=22C55E" height="20"> |
-| 🏠 **[Home-OS-2035](https://github.com/Kvbi213/Home-OS-2035)** | **Smart Home Controller & CLI Dashboard**<br/>Lokalny hub automatyki domowej i telemetryczny interfejs terminalowy. | `Node.js` • `CLI` • `IoT` • `Automation` | <img src="https://img.shields.io/badge/STABLE-CORE-FFFFFF?style=flat-square&color=000000&labelColor=333333" height="20"> |
-| 🛡️ **WhiteHat-Hack** | **Cybersecurity & Network Hardening Toolkit**<br/>Narzędziownik audytu infrastruktury L2/L3, skanowania podatności i inspekcji sieci. | `Shell` • `Fish` • `Linux` • `Nmap` | <img src="https://img.shields.io/badge/SECURITY-LAB-FFFFFF?style=flat-square&color=000000&labelColor=333333" height="20"> |
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <br/>
+      <strong><img src="https://api.iconify.design/lucide:cpu.svg?color=%2322C55E" width="16" height="16" align="center" /> <a href="https://github.com/Kvbi213/ai-system-dashboard">OmniDash — AI System Dashboard</a></strong>
+      <br/><br/>
+      <span>Autonomiczny, lokalny hub dowodzenia (Local-First OS) napędzany silnikiem LLM (Groq / LLaMA 3.3).</span>
+      <br/><br/>
+      <ul align="left">
+        <li><strong>Tool-Calling:</strong> Samodzielne manipulowanie zadaniami, odpytywanie bazy i przeszukiwanie sieci.</li>
+        <li><strong>Hardware Telemetry:</strong> Odczyt na żywo zużycia CPU, pamięci RAM i czasu pracy (Uptime).</li>
+        <li><strong>Live Widgets:</strong> IT News Ticker (kategorie White Hat/OSINT), Binance Crypto Radar i monitor pogody.</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/React_18-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Groq_SDK-000000?style=flat-square&logo=fastapi&logoColor=F55036&labelColor=161616" />
+      <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=161616" />
+      <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=161616" />
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/Kvbi213/ai-system-dashboard">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Kvbi213&repo=ai-system-dashboard&theme=transparent&hide_border=false&border_color=222222&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=22C55E" width="100%" alt="OmniDash Repo Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <br/>
+      <strong><img src="https://api.iconify.design/lucide:globe.svg?color=%2322C55E" width="16" height="16" align="center" /> <a href="https://kvbi-portfolio.web.app/">Kvbi Portfolio OS — Production Platform</a></strong>
+      <br/><br/>
+      <span>Dedykowana platforma SPA z hybrydowym Command Center OS, dynamicznym agentem wycen i zaawansowanym hardeningiem.</span>
+      <br/><br/>
+      <ul align="left">
+        <li><strong>Dynamic AI Booking Agent:</strong> Analiza dostępnych slotów w Firestore w czasie rzeczywistym i automatyczna estymacja budżetu sprintu.</li>
+        <li><strong>Zero-Bloat i18n:</strong> Autorski silnik dwujęzyczny (PL/EN) działający bez zewnętrznych zależności i narzutu na wagę bundle'a.</li>
+        <li><strong>Security Hardened:</strong> Ochrona zapytań przez Firebase App Check (reCAPTCHA Enterprise) oraz ścisłe reguły CSP.</li>
+      </ul>
+      <br/>
+      <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Vite_8-000000?style=flat-square&logo=vite&logoColor=646CFF&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Groq_SDK-000000?style=flat-square&logo=fastapi&logoColor=F55036&labelColor=161616" />
+      <img src="https://img.shields.io/badge/Pushbullet-000000?style=flat-square&logo=pushbullet&logoColor=4AB367&labelColor=161616" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### ◈ SYSTEM_INTELLIGENCE // WEKTORY OPERACYJNE
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff" width="18" height="18" align="center" /> 
+  SYSTEM INTELLIGENCE // WEKTORY OPERACYJNE
+</h3>
 
 <div align="center">
 
-| WEKTOR | OBSZAR DZIAŁANIA | GŁÓWNY ARSENAŁ |
+| WEKTOR | SPECYFIKACJA TECHNICZNA | ARSENAŁ REALIZACYJNY |
 | :--- | :--- | :--- |
-| 🧠 **AI & AUTOMATYZACJA** | LLM Tool Calling, agenty asynchroniczne, przetwarzanie NLP | `Groq Cloud` • `LLaMA 3` • `Node.js` • `Web APIs` |
-| ⚡ **FULL-STACK WEB** | Architektura SPA/PWA, responsywny brutalizm UI, zero-bloat | `React 19` • `Next.js` • `Vite` • `TailwindCSS` |
-| ☁️ **CHMURA & HARDENING** | Bazy danych noSQL/SQL, reguły CSP, App Check, ochrona sesji | `Firebase` • `Firestore` • `Vercel` • `Docker` |
-| 🔍 **INFRASTRUKTURA & OSINT** | Audyty sieci L2/L3, self-hosting, monitoring środowiskowy | `Linux` • `Kali` • `Nmap` • `UniFi` • `Fujitsu Futro` |
+| <img src="https://api.iconify.design/lucide:bot.svg?color=%23ffffff" width="15" height="15" align="center" /> **AI & AUTOMATYZACJA** | LLM Tool Calling, autonomiczne mikro-agenty, parsowanie NLP, harmonogramy cron | `Groq Cloud` • `LLaMA 3` • `FastAPI` • `Web APIs` |
+| <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="15" height="15" align="center" /> **FULL-STACK SYSTEMS** | Wydajne aplikacje SPA/PWA, responsywny neo-brutalizm, zero-bloat architektura | `React 19` • `Next.js` • `Vite` • `TailwindCSS` |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%23ffffff" width="15" height="15" align="center" /> **CHMURA & BACKEND** | Projektowanie API REST/Serverless, bazy NoSQL/SQL, integracje push i webhooki | `Node.js` • `Express` • `Firebase` • `Vercel` • `SQLite` |
+| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2322C55E" width="15" height="15" align="center" /> **HARDENING & AUDYT** | Ochrona CSP, weryfikacja App Check, inspekcja sieci L2/L3, audyt integralności | `Kali Linux` • `Nmap` • `Docker` • `UniFi` • `Fujitsu Futro` |
 
 </div>
 
 ---
 
-### ◈ TECH_ARSENAL // STOS TECHNOLOGICZNY
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="18" height="18" align="center" /> 
+  TECHNICAL ARSENAL // STOS TECHNOLOGICZNY
+</h3>
 
 <div align="center">
 
 <br/>
 
-**[ FRONTEND_&_UI_SYSTEMS ]**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css,js,ts&theme=dark"/>
+**[ FRONTEND & UI SYSTEMS ]**<br/>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161616" height="26"/></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF&labelColor=161616" height="26"/></a>
+<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=646CFF&labelColor=161616" height="26"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=161616" height="26"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=161616" height="26"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=161616" height="26"/></a>
 
 <br/><br/>
 
-**[ BACKEND_&_RUNTIMES ]**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp,php&theme=dark"/>
+**[ BACKEND & RUNTIMES ]**<br/>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=5FA04E&labelColor=161616" height="26"/></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF&labelColor=161616" height="26"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python_3-000000?style=flat-square&logo=python&logoColor=3776AB&labelColor=161616" height="26"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=161616" height="26"/></a>
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4&labelColor=161616" height="26"/></a>
 
 <br/><br/>
 
-**[ CLOUD_INFRASTRUCTURE_&_SECURITY ]**<br/>
-<img src="https://skillicons.dev/icons?i=firebase,docker,linux,kali,mysql,prisma,git,bash&theme=dark"/>
-
-<br/><br/>
-
-**[ FEATURED_PRODUCTION_CORE ]**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,py,firebase,docker,kali&theme=dark&perline=6"/>
+**[ CLOUD, DATABASE & SECURITY ]**<br/>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28&labelColor=161616" height="26"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED&labelColor=161616" height="26"/></a>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=557C94&labelColor=161616" height="26"/></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=161616" height="26"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032&labelColor=161616" height="26"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=161616" height="26"/></a>
 
 </div>
 
 ---
 
-### ◈ SYSTEM_METRICS // TELEMETRIA GITHUB
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:activity.svg?color=%2322C55E" width="18" height="18" align="center" /> 
+  TELEMETRY // GITHUB ACTIVITY METRICS
+</h3>
 
 <div align="center">
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=dark&background=000000&border=222222&stroke=222222&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=888888&dates=666666&hide_border=false" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kvbi213&theme=dark&background=000000&border=222222&stroke=222222&ring=FFFFFF&fire=22C55E&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=888888&dates=666666&hide_border=false" width="100%" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kvbi213&show_icons=true&theme=transparent&hide_border=false&border_color=222222&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF" width="100%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kvbi213&show_icons=true&theme=transparent&hide_border=false&border_color=222222&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=22C55E" width="100%" alt="GitHub Overall Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=transparent&hide_border=false&border_color=222222&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF" width="100%"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kvbi213&layout=compact&theme=transparent&hide_border=false&border_color=222222&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=22C55E" width="100%" alt="GitHub Top Languages" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kvbi213&theme=darkhub&no-bg=true&no-frame=true&column=7" width="100%"/>
 
 </div>
 
 ---
 
-### ◈ ENGINEERING_STANDARDS
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23ffffff" width="18" height="18" align="center" /> 
+  ENGINEERING STANDARDS // PROTOCOLS
+</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN_CODE-FFFFFF?color=000000&labelColor=111111&style=for-the-badge&logo=codewars&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/PHILOSOPHY-ZERO_BLOAT-FFFFFF?color=000000&labelColor=111111&style=for-the-badge&logo=speedtest&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/SECURITY-HARDENED_BY_DESIGN-FFFFFF?color=000000&labelColor=111111&style=for-the-badge&logo=shieldsdotio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-CLEAN_CODE-FFFFFF?color=000000&labelColor=111111&style=flat-square&logo=codewars&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PHILOSOPHY-ZERO_BLOAT-FFFFFF?color=000000&labelColor=111111&style=flat-square&logo=speedtest&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SECURITY-HARDENED_BY_DESIGN-FFFFFF?color=000000&labelColor=111111&style=flat-square&logo=shieldsdotio&logoColor=FFFFFF"/>
 
 <br/><br/>
 
@@ -141,6 +213,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=222222&strokeWidth=1&height=40&text=%5B%20END_OF_TRANSMISSION%20%5D&fontSize=14&fontColor=666666&fontAlignY=50" width="100%"/>
+<div align="center">
+  <img src="https://api.iconify.design/lucide:terminal.svg?color=%23666666" width="14" height="14" align="center" />
+  <span style="font-family: monospace; font-size: 11px; color: #666666; letter-spacing: 2px;">[ END OF TRANSMISSION // SYSTEM READY ]</span>
+</div>
 
 </div>
