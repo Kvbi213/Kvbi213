@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BESPOKE SYSTEM HEADER BANNER -->
-<img src="assets/header.svg" width="100%" alt="Jakub Lis // Kvbi213 - System Builder & Full-Stack Engineer" />
+<img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/header.svg" width="100%" alt="Jakub Lis // Kvbi213 - System Builder & Full-Stack Engineer" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 ---
 
 <h3 align="center">
-  <img src="assets/icons/git-branch.svg" width="18" height="18" align="center" /> 
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/git-branch.svg" width="18" height="18" align="center" /> 
   FEATURED SYSTEMS // CORE DEPLOYS
 </h3>
 
@@ -55,7 +55,7 @@
   <tr>
     <td width="55%" valign="top">
       <br/>
-      <strong><img src="assets/icons/cpu.svg" width="16" height="16" align="center" /> <a href="https://github.com/Kvbi213/ai-system-dashboard">OmniDash — AI System Dashboard</a></strong>
+      <strong><img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/cpu.svg" width="16" height="16" align="center" /> <a href="https://github.com/Kvbi213/ai-system-dashboard">OmniDash — AI System Dashboard</a></strong>
       <br/><br/>
       <span>Autonomiczny, lokalny hub dowodzenia (Local-First OS) napędzany silnikiem LLM (Groq / LLaMA 3.3).</span>
       <br/><br/>
@@ -80,7 +80,7 @@
   <tr>
     <td colspan="2" valign="top">
       <br/>
-      <strong><img src="assets/icons/globe.svg" width="16" height="16" align="center" /> <a href="https://kvbi-portfolio.web.app/">Kvbi Portfolio OS — Production Platform</a></strong>
+      <strong><img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/globe.svg" width="16" height="16" align="center" /> <a href="https://kvbi-portfolio.web.app/">Kvbi Portfolio OS — Production Platform</a></strong>
       <br/><br/>
       <span>Dedykowana platforma SPA z hybrydowym Command Center OS, dynamicznym agentem wycen i zaawansowanym hardeningiem.</span>
       <br/><br/>
@@ -104,7 +104,7 @@
 ---
 
 <h3 align="center">
-  <img src="assets/icons/cpu.svg" width="18" height="18" align="center" /> 
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/cpu.svg" width="18" height="18" align="center" /> 
   SYSTEM INTELLIGENCE // WEKTORY OPERACYJNE
 </h3>
 
@@ -112,17 +112,17 @@
 
 | WEKTOR | SPECYFIKACJA TECHNICZNA | ARSENAŁ REALIZACYJNY |
 | :--- | :--- | :--- |
-| <img src="assets/icons/bot.svg" width="15" height="15" align="center" /> **AI & AUTOMATYZACJA** | LLM Tool Calling, autonomiczne mikro-agenty, parsowanie NLP, harmonogramy cron | `Groq Cloud` • `LLaMA 3` • `FastAPI` • `Web APIs` |
-| <img src="assets/icons/code-2.svg" width="15" height="15" align="center" /> **FULL-STACK SYSTEMS** | Wydajne aplikacje SPA/PWA, responsywny neo-brutalizm, zero-bloat architektura | `React 19` • `Next.js` • `Vite` • `TailwindCSS` |
-| <img src="assets/icons/server.svg" width="15" height="15" align="center" /> **CHMURA & BACKEND** | Projektowanie API REST/Serverless, bazy NoSQL/SQL, integracje push i webhooki | `Node.js` • `Express` • `Firebase` • `Vercel` • `SQLite` |
-| <img src="assets/icons/shield-check.svg" width="15" height="15" align="center" /> **HARDENING & AUDYT** | Ochrona CSP, weryfikacja App Check, inspekcja sieci L2/L3, audyt integralności | `Kali Linux` • `Nmap` • `Docker` • `UniFi` • `Fujitsu Futro` |
+| <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/bot.svg" width="15" height="15" align="center" /> **AI & AUTOMATYZACJA** | LLM Tool Calling, autonomiczne mikro-agenty, parsowanie NLP, harmonogramy cron | `Groq Cloud` • `LLaMA 3` • `FastAPI` • `Web APIs` |
+| <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/code-2.svg" width="15" height="15" align="center" /> **FULL-STACK SYSTEMS** | Wydajne aplikacje SPA/PWA, responsywny neo-brutalizm, zero-bloat architektura | `React 19` • `Next.js` • `Vite` • `TailwindCSS` |
+| <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/server.svg" width="15" height="15" align="center" /> **CHMURA & BACKEND** | Projektowanie API REST/Serverless, bazy NoSQL/SQL, integracje push i webhooki | `Node.js` • `Express` • `Firebase` • `Vercel` • `SQLite` |
+| <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/shield-check.svg" width="15" height="15" align="center" /> **HARDENING & AUDYT** | Ochrona CSP, weryfikacja App Check, inspekcja sieci L2/L3, audyt integralności | `Kali Linux` • `Nmap` • `Docker` • `UniFi` • `Fujitsu Futro` |
 
 </div>
 
 ---
 
 <h3 align="center">
-  <img src="assets/icons/layers.svg" width="18" height="18" align="center" /> 
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/layers.svg" width="18" height="18" align="center" /> 
   TECHNICAL ARSENAL // STOS TECHNOLOGICZNY
 </h3>
 
@@ -162,7 +162,7 @@
 ---
 
 <h3 align="center">
-  <img src="assets/icons/activity.svg" width="18" height="18" align="center" /> 
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/activity.svg" width="18" height="18" align="center" /> 
   TELEMETRY // GITHUB ACTIVITY METRICS
 </h3>
 
@@ -190,7 +190,7 @@
 ---
 
 <h3 align="center">
-  <img src="assets/icons/shield-check.svg" width="18" height="18" align="center" /> 
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/shield-check.svg" width="18" height="18" align="center" /> 
   ENGINEERING STANDARDS // PROTOCOLS
 </h3>
 
@@ -214,7 +214,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/icons/terminal.svg" width="14" height="14" align="center" />
+  <img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/terminal.svg" width="14" height="14" align="center" />
   <span style="font-family: monospace; font-size: 11px; color: #666666; letter-spacing: 2px;">[ END OF TRANSMISSION // SYSTEM READY ]</span>
 </div>
 
