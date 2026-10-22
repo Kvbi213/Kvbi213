@@ -6,7 +6,7 @@
 <br/>
 
 <!-- DYNAMIC TYPING SVG -->
-<a href="https://kvbi-portfolio.web.app/">
+<a href="https://kvbi.pl/">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2600&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=780&height=46&lines=%3E+INITIALIZING+HIGH-PERFORMANCE+SYSTEMS...;%3E+AI+TOOL-CALLING+%26+AUTONOMOUS+AGENTS;%3E+MINIMALIZM.+WYDAJNO%C5%9A%C4%86.+PRECYZJA.+ZERO+BLOAT.;%3E+REACT+19+%E2%80%A2+NODE.JS+%E2%80%A2+GROQ+AI+%E2%80%A2+FIREBASE" alt="Typing SVG" />
 </a>
 
