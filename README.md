@@ -80,14 +80,14 @@
   <tr>
     <td colspan="2" valign="top">
       <br/>
-      <strong><img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/globe.svg" width="16" height="16" align="center" /> <a href="https://kvbi-portfolio.web.app/">Kvbi Portfolio OS — Production Platform</a></strong>
+      <strong><img src="https://raw.githubusercontent.com/Kvbi213/Kvbi213/main/assets/icons/globe.svg" width="16" height="16" align="center" /> <a href="https://kvbi.pl/">Kvbi Portfolio OS — Production Platform</a></strong>
       <br/><br/>
       <span>Dedykowana platforma SPA z hybrydowym Command Center OS, dynamicznym agentem wycen i zaawansowanym hardeningiem.</span>
       <br/><br/>
       <ul align="left">
         <li><strong>Dynamic AI Booking Agent:</strong> Analiza dostępnych slotów w Firestore w czasie rzeczywistym i automatyczna estymacja budżetu sprintu.</li>
-        <li><strong>Zero-Bloat i18n:</strong> Autorski silnik dwujęzyczny (PL/EN) działający bez zewnętrznych zależności i narzutu na wagę bundle'a.</li>
-        <li><strong>Security Hardened:</strong> Ochrona zapytań przez Firebase App Check (reCAPTCHA Enterprise) oraz ścisłe reguły CSP.</li>
+        <li><strong>Performance & SEO First:</strong> PageSpeed 100/100, prerendering 9 tras statycznych pod roboty indeksujące i odroczona telemetria chroniąca Core Web Vitals.</li>
+        <li><strong>Security Hardened:</strong> Ochrona zapytań przez Firebase App Check (reCAPTCHA Enterprise), hermetyzacja kluczy AI oraz ścisłe reguły CSP.</li>
       </ul>
       <br/>
       <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161616" />
