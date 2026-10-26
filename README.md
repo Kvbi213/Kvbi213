@@ -13,8 +13,8 @@
 <br/>
 
 <!-- LIVE TELEMETRY RADAR -->
-<a href="https://kvbi-portfolio.web.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-kvbi--portfolio.web.app-000000?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=111111" alt="Portfolio" />
+<a href="https://kvbi.pl/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-kvbi.pl-000000?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=111111" alt="Portfolio" />
 </a>
 <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000000?style=flat-square&logo=statuspage&logoColor=22C55E&labelColor=111111" alt="Status Operational" />
 <a href="https://github.com/Kvbi213">
@@ -205,7 +205,7 @@
 ```
 ┌── [ SYSTEM LOG // DISPATCH ] ──────────────────────────────────────────────┐
 │ STATUS: ONLINE                                                             │
-│ TELEMETRY: kvbi-portfolio.web.app                                          │
+│ TELEMETRY: kvbi.pl                                                         │
 │ REPO: https://github.com/Kvbi213                                           │
 │ "In code we trust, for it is absolute. Architecting the digital frontier." │
 └────────────────────────────────────────────────────────────────────────────┘
